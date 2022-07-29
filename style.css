@@ -1,0 +1,97 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+
+}
+nav {
+    border-top: 5px solid ;
+    border-bottom: 5px solid white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
+div p{
+    text-align: center
+    }
+h1, h2{
+    text-align: center;
+}
+    .kartinka1{
+        width: 100%;
+        text-align: center;
+    }
+    .HotWheels{
+        text-align: center;
+    }
+
+    .video{
+        text-align: center;
+    }
+
+.text1{
+    font-size:larger;
+}
+.text2{
+    font-size: larger;
+}
+.text0{
+    text-align: center;
+    font-size: larger;
+}
+.text10{
+    font-size: larger;
+    text-align: center;
+
+}
+
+.adv
+{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin-left: 10%;
+}
+
+.post{
+    background-color: white;
+    padding: 15px 45px 30px 45px;
+    width: 150px;
+    margin: 20px;
+    position: relative;
+    border-radius: 20%;
+}
+.post-text {
+    font-size: 20px;
+    color: grey;
+}
+
+.article-but {
+    text-decoration: none;
+     background-color: #ce36ba;
+     border-radius: 5%;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+}
+
+.post-img {
+    opacity: 0.2;
+
+}
+.post-img:hover{
+    opacity: 1;
+    margin: 20px;
+    border: 3px solid navy;
+}
